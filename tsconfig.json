@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "outDir": "./built",
+    "allowJs": true,
+    "outDir": "dist",
+    "target": "es5",
+    "noImplicityAny": false,
+    "sourceMap": false
+  }
+}
